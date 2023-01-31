@@ -1,0 +1,10 @@
+Pythone Assignment:1
+
+Module:1
+
+Ans:1)Software is a collection of computer prorams and related documents and purpose of these for provide desired features,functionalities and better performance.
+Ans:2)Many types of caategories are there but most know are 1>Web Application
+							    2>Mobile Application
+							    3>Desktop Application
+Ans:3)Programming is the set of instruction, a system of rules particularly instruct or guide the machine itself.
+Ans:4)Python is progamiing language, In deep, It is a high-level,general purpose,dynamic,Object oriented programing language
